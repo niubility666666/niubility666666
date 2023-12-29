@@ -63,7 +63,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 🔥 My projects:
 -----------------------
 个人博客hexo：https://lin-xiuer.gitee.io/
-个人博客Docute：https://linweiqian.github.io/linweiqianBlog/
+个人博客Docute：https://niubility666666.github.io/
 
 
 🔥 My Skill Set:
