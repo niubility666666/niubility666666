@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linweiqian&show_icons=true&theme=radical) -->
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://linweiqian.github.io/linweiqianBlog/)
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://linweiqian.github.io/linweiqianBlog/)
+  [![Java](https://img.shields.io/badge/Java-35495E?logo=vue.js&logoColor=4FC08D)](https://linweiqian.github.io/linweiqianBlog/)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://linweiqian.github.io/linweiqianBlog/)
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://linweiqian.github.io/linweiqianBlog/)
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://linweiqian.github.io/linweiqianBlog/)
