@@ -1,5 +1,16 @@
 <h1 align="center">欢迎来到后端码农kun.yu的GitHub主页👋</h1>
 
+<br />
+❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
+<br />
+<br />
+
+- 🔭你好呀！💡
+
+- 🤔这里是忆阳的大象耳朵，会点大数据优化和性能分析优化，想做一个有意思的后端工程师
+
+- ⚡ Fun fact:喜欢看书，喜欢看博客，喜欢听音乐，喜欢看电影，喜欢运动寻找灵感
+
 <!--
 **kun.yu/kun.yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
