@@ -1,7 +1,7 @@
 <h1 align="center">欢迎来到后端码农kun.yu的GitHub主页👋</h1>
 
 <br />
-❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
+   ❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
 <br />
 <br />
 
@@ -172,20 +172,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=niubility666666&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yukun" /> </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=yukun" /> </div>
-<!--
-<div align="center">
-  <a href="	https://niubility666666.github.io/img/df2c791f43ff3a78305a3e68304887f.jpg" target="_blank" style="display: inline-block;">
-    <img
-        src="	https://niubility666666.github.io/img/df2c791f43ff3a78305a3e68304887f.jpg?style=flat-square"
-        align="center"
-    />
-  </a>
-</div>
--->
+<p align = "center" >
+  <img src = "https://komarev.com/ghpvc/?username=wangscaler" >
+</p>
