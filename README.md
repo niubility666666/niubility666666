@@ -172,7 +172,8 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 
 
 ## Github Stats  
-![](https://raw.githubusercontent.com/niubility666666/niubility666666/main/dist/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/niubility666666/niubility666666/main/github-contribution-grid-snake.svg)
+
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=niubility666666" />
     <img  src="https://github-profile-trophy.vercel.app/?username=niubility666666" />
