@@ -173,7 +173,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 
 ## 📈Statistics
 
-[![kun.yu's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=fjqz177&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![kun.yu's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=niubility666666&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--   profile-night-rainbow.svg -->
 ![](./profile-green-animate.svg)
@@ -189,7 +189,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 </div>
 
 ## My program
-[![Readme Card](https://github-readme-stats-niubility666666.vercel.app/api/pin/?username=niubility666666&repo=SQL-Program)](https://github.com/niubility666666/sqlParser)
-[![Readme Card](https://github-readme-stats-niubility666666.vercel.app/api/pin/?username=niubility666666&repo=JAVA-Program)](https://github.com/niubility666666/ecomold)
-[![Readme Card](https://github-readme-stats-niubility666666.vercel.app/api/pin/?username=niubility666666&repo=VUE-music)](https://github.com/niubility666666/ecomold-ui)
-[![Readme Card](https://github-readme-stats-niubility666666.vercel.app/api/pin/?username=niubility666666&repo=BOKE)](https://github.com/fjqz177/https://niubility666666.github.io/)
+[![Readme Card](https://github-readme-stats-fjqz177.vercel.app/api/pin/?username=fjqz177&repo=SQL-Program)](https://github.com/niubility666666/sqlParser)
+[![Readme Card](https://github-readme-stats-fjqz177.vercel.app/api/pin/?username=fjqz177&repo=JAVA-Program)](https://github.com/niubility666666/ecomold)
+[![Readme Card](https://github-readme-stats-fjqz177.vercel.app/api/pin/?username=fjqz177&repo=VUE-music)](https://github.com/niubility666666/ecomold-ui)
+[![Readme Card](https://github-readme-stats-fjqz177.vercel.app/api/pin/?username=fjqz177&repo=BOKE)](https://github.com/fjqz177/https://niubility666666.github.io/)
