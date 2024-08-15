@@ -171,6 +171,25 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 <br/>  
 
 
+## 📈Statistics
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=niubility666666&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--   profile-night-rainbow.svg -->
+![](./profile-green-animate.svg)
+
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api?username=niubility666666" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api/top-langs/?username=niubility666666&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=fjqz177" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=fjqz177&row=1" />
+</div>
+
+
 ## Github Stats  
 ![](https://raw.githubusercontent.com/niubility666666/niubility666666/main/github-contribution-grid-snake.svg)
 
