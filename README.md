@@ -172,6 +172,15 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 
 
 ## Github Stats  
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=yukun&theme=react-dark">
+</p>
+<p align = "center">
+  <img align = "left" src = "https://github-readme-streak-stats.herokuapp.com/?user=yukun&theme=tokyonight" width="45%">
+</p>
+<p align = "center">
+  <img align = "right" src = "https://github-profile-trophy.vercel.app/?username=yukun&theme=tokyonight" width="50%" >
+</p>
 <p align = "center" >
-  <img src = "https://komarev.com/ghpvc/?username=wangscaler" >
+  <img src = "https://komarev.com/ghpvc/?username=yukun" >
 </p>
