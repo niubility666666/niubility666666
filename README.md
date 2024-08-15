@@ -1,6 +1,17 @@
-<!-- ### 欢迎来到前端嚣张农民GitHub主页 👋 -->
+<h2 align="center">👋 Hey! I'm Xuenew. 🐘</h2>
+<br />
+❤️ 🍦 🍓 🍉 🍋 🥛 ☕ 🍗 🍟 🎮 💻 🎶 💰
+<br />
+<br />
 
-<h1 align="center">欢迎来到后端码农kun.yu的GitHub主页👋</h1>
+- 🔭你好呀！💡
+
+- 🤔这里是忆阳的大象耳朵，会点小爬虫，想做一个有意思的前端工程师
+
+- ⚡ Fun fact:喜欢看动漫，喜欢看小说，喜欢听音乐，喜欢看电影，喜欢做游戏
+
+
+<img align="center" src="./images/github-contribution-grid-snake.svg" style="max-width: 90%;">
 
 <!--
 **kun.yu/kun.yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
