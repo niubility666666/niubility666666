@@ -178,11 +178,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 <!--   profile-night-rainbow.svg -->
 ![](./profile-green-animate.svg)
 
-<div align="center">
-<span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats-niubility666666.vercel.app/api?username=niubility666666" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats-fjqz177.vercel.app/api/top-langs/?username=niubility666666&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
-</div>
 
 
 ## Github Stats  
