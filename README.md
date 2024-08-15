@@ -187,3 +187,9 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=niubility666666" />
     <img  src="https://github-profile-trophy.vercel.app/?username=niubility666666" />
 </div>
+
+## My program
+[![Readme Card](https://github-readme-stats-niubility666666.vercel.app/api/pin/?username=niubility666666&repo=SQL-Program)](https://github.com/niubility666666/sqlParser)
+[![Readme Card](https://github-readme-stats-niubility666666.vercel.app/api/pin/?username=niubility666666&repo=JAVA-Program)](https://github.com/niubility666666/ecomold)
+[![Readme Card](https://github-readme-stats-niubility666666.vercel.app/api/pin/?username=niubility666666&repo=VUE-music)](https://github.com/niubility666666/ecomold-ui)
+[![Readme Card](https://github-readme-stats-niubility666666.vercel.app/api/pin/?username=niubility666666&repo=BOKE)](https://github.com/fjqz177/https://niubility666666.github.io/)
