@@ -49,16 +49,12 @@ Here are some ideas to get you started:
   [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://linweiqian.github.io/linweiqianBlog/)
 
 - ⚙️ I also use and work:
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://linweiqian.github.io/linweiqianBlog/)
   [![Mysql](https://img.shields.io/badge/Mysql-20232A?logo=Mysql&logoColor=61DAFB)](https://linweiqian.github.io/linweiqianBlog/)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)](https://linweiqian.github.io/linweiqianBlog/)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://linweiqian.github.io/linweiqianBlog/)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://linweiqian.github.io/linweiqianBlog/)
 
 - 🌱 I’m currently learning:
-  [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)](https://linweiqian.github.io/linweiqianBlog/)
-  [![React](https://img.shields.io/badge/-Golang-02569B?logo=React&logoColor=00ACC1)](https://linweiqian.github.io/linweiqianBlog/)
-  [![go](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://linweiqian.github.io/linweiqianBlog/)
   [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://linweiqian.github.io/linweiqianBlog/)
 
 
