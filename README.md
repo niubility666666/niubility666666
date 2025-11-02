@@ -92,7 +92,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 </div>
 
 </td><td valign="top" width="33%">
-
+-->
 
 
 ### Backend  
@@ -132,7 +132,6 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 </td></tr></table>  
 
 <br/>  
--->
 
 
 ## Connect with me  
