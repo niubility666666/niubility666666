@@ -158,8 +158,8 @@ Here are some ideas to get you started:
 
 [![kun.yu's github activity graph](https://github-readme-activity-graph-fjqz177.vercel.app/graph?username=niubility666666&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--   profile-night-rainbow.svg -->
-<!--![](./profile-green-animate.svg)-->
+   profile-night-rainbow.svg 
+![](./profile-green-animate.svg)
 
 
 
